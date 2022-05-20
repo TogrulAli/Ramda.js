@@ -1,0 +1,96 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    width: 100%;
+}
+.content {
+    float: left;
+    width: 60%;
+    height: 60px;
+    background-color: rgb(45, 37, 100);
+    text-align: center;
+    margin: 20px 0 0 400px;
+}
+.content-bar {
+    margin-top: 20px;
+}
+
+#ramda {
+    padding: 15px;
+}
+
+#ramda:hover {
+    background-color: rgb(74, 61, 160);
+    border: 1px solid white;
+    color: white;
+}
+.content-bar li {
+    display: inline;
+    padding-left: 20px;
+}
+
+.content-bar a{
+    text-decoration: none;
+    color: white;
+}
+
+.main {
+    float: left;
+    width: 60%;
+    margin: 20px 0 0 400px;
+    height: 75vh;
+}
+
+.main1 {
+    border: 1px solid grey;
+    width: 25%;
+    height: 200px;
+    padding-left: 8px;
+    color: grey;
+    display: inline-block;
+}
+
+.main1 p {
+    padding: 12px;
+}
+
+#hover:hover {
+    background-color: lightslategray;
+    color: black;
+}
+
+.main2 img {
+    margin-left: 150px;
+    border: 1px solid grey;
+    
+}
+.main2 {
+    float: right;
+    width: 70%;
+    display: inline;
+    line-height: 23px;
+    text-align: justify;
+    font-size: 14px;
+    
+}
+
+.main2 p {
+    margin-right: 50px;
+
+}
+
+.footer {
+    float: left;
+    width: 60%;
+    margin: 20px 0 0 400px;
+    background-color: lightgray;
+    height: 30px;
+    padding-top: 20px;
+}
+
+.footer p {
+    display: inline;
+    margin-left: 5px;
+
+}
